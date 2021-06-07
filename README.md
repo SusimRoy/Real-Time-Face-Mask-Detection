@@ -4,6 +4,7 @@ A real-time face mask detection script utilizing deep learning with tensorflow a
 
 Contributors:
 > Jaisidh Singh
+
 > Susim Mukul Roy
 
 

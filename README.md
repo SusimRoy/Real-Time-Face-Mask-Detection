@@ -1,6 +1,6 @@
 # Real-Time-Face-Mask-Detection
 
-A real-time face mask detection script utilizing deep learning with tensorflow and face detection with opencv
+A real-time face mask detection script utilizing deep learning with Tensorflow and face detection with OpenCV
 
 Contributors:
 > Jaisidh Singh
